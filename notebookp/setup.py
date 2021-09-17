@@ -8,7 +8,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 setup(
     name="notebookp",
     version="0.0.1",
-    author="Ygreme Bekele",
+    author="Ygrem Bekele",
     author_email="ygremb@gmail.com",
     description="A package to convert your Jupyter Notebook",
     long_description=readme,
