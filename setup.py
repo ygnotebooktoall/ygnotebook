@@ -6,7 +6,7 @@ with open("README.md", "r") as readme_file:
 requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
-    name="notebookp",
+    name="ygrempkg",
     version="0.0.1",
     author="Ygrem Bekele",
     author_email="ygremb@gmail.com",
